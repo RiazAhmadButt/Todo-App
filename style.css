@@ -1,0 +1,23 @@
+.Dbtn {
+    position: absolute;
+    right: 0;
+    border-radius: 5px;
+}
+li {
+    position: relative;
+    list-style: none;
+    height: 45px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+#clearAll{
+    position: absolute;
+    right: 0;
+}
+#footer{
+    position: relative;
+    margin-top: 20px;
+}
+#del{
+    margin-right: 10px;
+}
